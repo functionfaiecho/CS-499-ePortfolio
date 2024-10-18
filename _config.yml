@@ -8,9 +8,9 @@ github:
   tar_url: https://mothership.sg
   repository_url: https://www.wikipedia.org
 show_downloads: true
-
 exclude:
   - node_modules
   - vendor
   - Gemfile
   - Gemfile.lock
+  - CS 499 Module 7 Final Portfolio/Enhancement Three/EnhancedSite/node_modules
