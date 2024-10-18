@@ -7,3 +7,4 @@ github:
   zip_url: https://www.google.com
   tar_url: https://mothership.sg
   repository_url: https://www.wikipedia.org
+show_downloads: true
