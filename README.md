@@ -9,3 +9,7 @@ The complete ePortfolio can be found on [this link](cs499.crabcakes.dev).
 
 
 Each artifact is placed in its own repository. The respective repositories all contain detailed README files on how to clone and run each file on your computer. **Please note that the API may not be cloned or run on your computer, but may be accessed through the link provided**.
+
+# Disclaimer
+
+This ePortfolio was created for academic purposes only. Please do NOT, under any circumstances, make this the subject of any public media.
