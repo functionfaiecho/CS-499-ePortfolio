@@ -1,0 +1,14 @@
+services:
+  original:
+    build: ./original  # Directory for original game Dockerfile.
+    container_name: original_game  # Name container for easier identification.
+    image: original_game  # Assign image name for original game.
+    stdin_open: true  # Keep STDIN open for interaction.
+    tty: true  # Enable interactive input.
+
+  enhanced:
+    build: ./enhanced  # Directory for enhanced game Dockerfile.
+    container_name: enhanced_game  # Name container for easier identification.
+    image: enhanced_game  # Assign image name for enhanced game.
+    stdin_open: true  # Keep STDIN open for interaction.
+    tty: true  # Enable interactive input.
